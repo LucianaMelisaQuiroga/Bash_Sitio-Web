@@ -747,3 +747,15 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cd clients
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd client/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/assets/fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
