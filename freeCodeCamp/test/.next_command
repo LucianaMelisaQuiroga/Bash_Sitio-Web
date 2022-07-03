@@ -759,3 +759,36 @@ history -a
 mkdir client/assets/fonts
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch client/assets//fonts/roboto-bold.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name roboto-bold.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd client/assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm roboto-bold.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ../..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch client/assets/fonts/roboto-bold.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
