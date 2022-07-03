@@ -663,3 +663,9 @@ history -a
 rm background.jpg
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
